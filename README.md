@@ -1,7 +1,7 @@
 # ODST Soundtracks
 This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere. All credits go to Martin O'Donnell and Michael Salvatori for making the soundtracks.
 
-_(Note that i will also maybe make a mod that replaces the music files with Halo 3 soundtracks such as "the Storm", who knows?)_
+_(Note that i will also maybe make a mod that plays Halo 3 soundtracks such as "the Storm", who knows?)_
 
 # Music List
 - editor: `Overture`
