@@ -1,5 +1,5 @@
 # ODST Soundtracks
-**Replaces music files with ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere.
+**Replaces Mindustry music files with ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere.
 
 _(Note that i will also maybe make a mod that replaces the music files with Halo 3 soundtracks such as "the Storm", who knows?)_
 
