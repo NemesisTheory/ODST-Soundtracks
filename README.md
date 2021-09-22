@@ -1,9 +1,9 @@
 # ODST Soundtracks
-**Replaces Mindustry music files with ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere.
+This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere. All credits go to Martin O'Donnell and Michael Salvatori for making the soundtracks.
 
 _(Note that i will also maybe make a mod that replaces the music files with Halo 3 soundtracks such as "the Storm", who knows?)_
 
-# Changes made
+# Music List
 - editor: `Overture`
 - game1: `The Rookie`
 - game2: `More Than His Share`
