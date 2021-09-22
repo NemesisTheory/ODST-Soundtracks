@@ -1,5 +1,5 @@
 # ODST Soundtracks
-This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere. All credits go to Martin O'Donnell and Michael Salvatori for making the soundtracks.
+This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign. All credits go to Martin O'Donnell and Michael Salvatori for making the soundtracks.
 
 _(Note that i will also maybe make a mod that plays Halo 3 soundtracks such as "the Storm", who knows?)_
 
@@ -16,3 +16,17 @@ _(Note that i will also maybe make a mod that plays Halo 3 soundtracks such as "
 - game9: `Bits and Pieces`
 - launch: `No Stone Unturned`
 - menu: `The Light at the End`
+
+# Music Links
+- Overture: https://www.youtube.com/watch?v=4kCP-ffSdfU
+- The Rookie: https://www.youtube.com/watch?v=6qTpwMlqeLU
+- More Than His Share: https://www.youtube.com/watch?v=eoCBogeAnS4
+- Deference for Darkness: https://www.youtube.com/watch?v=gsG8qffiDk8
+- The Menagerie: https://www.youtube.com/watch?v=loP4MI028Pw
+- Asphalt and Ablution: https://www.youtube.com/watch?v=fOl3oW4wp-o
+- Traffic Jam: https://www.youtube.com/watch?v=GfxL_ljHPF0
+- Neon Night: https://www.youtube.com/watch?v=JO7na0EtB0A
+- The Office of Naval Intelligence: https://www.youtube.com/watch?v=lzmjEj2HF14
+- Bits and Pieces: https://www.youtube.com/watch?v=EmGQpuvSCvM
+- No Stone Unturned: https://www.youtube.com/watch?v=e9QWfGS9TgE
+- The Light at the End: https://www.youtube.com/watch?v=99HjuHV-yMk
