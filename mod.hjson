@@ -1,0 +1,7 @@
+name: "ODST-Soundtracks
+displayName: "ODST Soundtracks"
+author: "NemesisTheory"
+description: "Replaces music files with ODST soundtracks so you can enjoy the vibe while playing, it also makes a nice effect and atmosphere."
+version: "1.0"
+minGameVersion: "105"
+hidden: "false"
