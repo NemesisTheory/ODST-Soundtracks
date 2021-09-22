@@ -50,3 +50,7 @@ List of ODST Soundtracks that _were not_ included in this music pack.
 - Data Hive: https://www.youtube.com/watch?v=49sXWfZidAU
 - Special Delivery: https://www.youtube.com/watch?v=RGkcDA9dbnk
 - Finale: https://www.youtube.com/watch?v=6-jmPBuoQM4
+
+# Halo 3: ODST
+I also suggest maybe *buying the game* if you're *interested enough*, although that is up to you to decide the choice.
+PC: https://store.steampowered.com/app/1064272/Halo_3_ODST/
