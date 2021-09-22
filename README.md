@@ -53,4 +53,4 @@ List of ODST Soundtracks that _were not_ included in this music pack.
 
 # Halo 3: ODST
 I also suggest maybe *buying the game* if you're *interested enough*, although that is up to you to decide the choice.
-PC: https://store.steampowered.com/app/1064272/Halo_3_ODST/
+- PC: https://store.steampowered.com/app/1064272/Halo_3_ODST/
