@@ -42,3 +42,11 @@ All songs are made by the following people and their production performances, no
 - C. Paul Johnson
 - Stan Lepard
 - David Sabee
+
+# Other ODST Soundtracks
+List of ODST Soundtracks that _were not_ included in this music pack.
+- Skyline: https://www.youtube.com/watch?v=iJDzP5aGCoU
+- One Way Ride: https://www.youtube.com/watch?v=QdwvG9Lr1Yc
+- Data Hive: https://www.youtube.com/watch?v=49sXWfZidAU
+- Special Delivery: https://www.youtube.com/watch?v=RGkcDA9dbnk
+- Finale: https://www.youtube.com/watch?v=6-jmPBuoQM4
