@@ -30,3 +30,15 @@ _(Note that i will also maybe make a mod that plays Halo 3 soundtracks such as "
 - Bits and Pieces: https://www.youtube.com/watch?v=EmGQpuvSCvM
 - No Stone Unturned: https://www.youtube.com/watch?v=e9QWfGS9TgE
 - The Light at the End: https://www.youtube.com/watch?v=99HjuHV-yMk
+
+# Credits
+All songs are made by the following people and their production performances, none of these songs belong to me or have any right to.
+- Martin O'Donnell
+- Michael Salvatori
+- The Northwest Sinfonia
+- Dewey Marler
+- Steve Griggs
+- Harry Hmura
+- C. Paul Johnson
+- Stan Lepard
+- David Sabee
