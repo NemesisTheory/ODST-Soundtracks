@@ -1,5 +1,5 @@
 # ODST Soundtracks
-This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign. All credits go to Martin O'Donnell and Michael Salvatori for making the soundtracks.
+This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign. **All** credits go to **Martin O'Donnell** and **Michael Salvatori** for making the soundtracks.
 
 _(Note that i will also maybe make a mod that plays Halo 3 soundtracks such as "the Storm", who knows?)_
 
@@ -32,7 +32,7 @@ _(Note that i will also maybe make a mod that plays Halo 3 soundtracks such as "
 - The Light at the End: https://www.youtube.com/watch?v=99HjuHV-yMk
 
 # Credits
-All songs are made by the following people and their production performances, none of these songs belong to me or have any right to.
+*All* songs are made by the following people and their production performances, *none* of these songs *belong to me* or *have any right to*.
 - Martin O'Donnell
 - Michael Salvatori
 - The Northwest Sinfonia
