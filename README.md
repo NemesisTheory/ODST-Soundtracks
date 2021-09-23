@@ -16,7 +16,7 @@ _(Note that i will also maybe make a mod that plays Halo 3 soundtracks such as "
 - game9: **Bits and Pieces**
 - launch: **No Stone Unturned**
 - menu: **The Light at the End**
-- *(i also changed the land sound effect witht he Active Camouflage End sound effect)*
+- *(i also changed the land sound effect with the Halo 3 Active Camouflage End sound effect)*
 
 # Music Links
 - Overture: https://www.youtube.com/watch?v=4kCP-ffSdfU
