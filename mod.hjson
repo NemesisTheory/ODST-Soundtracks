@@ -1,9 +1,9 @@
 {
-"name": "ODST-Soundtracks",
+"name": "odst-soundtracks",
 "displayName": "ODST Soundtracks",
 "author": "NemesisTheory",
-"description": "Replaces music files with ODST soundtracks so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere.",
+"description": "This mod plays ODST soundtracks so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign.",
 "version": "1.0",
-"minGameVersion": "105",
-"hidden": "true"
+"minGameVersion": "126",
+"hidden": true
 }
