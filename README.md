@@ -53,12 +53,6 @@ List of ODST Soundtracks that _were not_ included in this music pack.
 - Finale: https://www.youtube.com/watch?v=6-jmPBuoQM4
 
 # Halo 3: ODST
-I also suggest maybe *buying the game* if you're *interested enough*, although that is up to you to decide the choice.
-- PC: https://store.steampowered.com/app/1064272/Halo_3_ODST/
-- Alternatively: https://www.microsoft.com/en-us/p/halo-3-odst/9p6vzcrgxfmx
-- XBOX: https://marketplace.xbox.com/en-us/Product/Halo-3-ODST-Campaign-Edition/66acd000-77fe-1000-9115-d8024d530877
-
-# Info
 **Information** on what **Halo 3: ODST** really is for people who are *interested* in the *trilogy*.
 - Wikipedia: https://en.wikipedia.org/wiki/Halo_3:_ODST
 - Halopedia: https://www.halopedia.org/Halo_3:_ODST
