@@ -49,9 +49,3 @@ List of ODST Soundtracks that _were not_ included in this music pack.
 - Data Hive: https://www.youtube.com/watch?v=49sXWfZidAU
 - Special Delivery: https://www.youtube.com/watch?v=RGkcDA9dbnk
 - Finale: https://www.youtube.com/watch?v=6-jmPBuoQM4
-
-# Halo 3: ODST
-**Information** on what **Halo 3: ODST** really is for people who are *interested* in the *trilogy*.
-- Wikipedia: https://en.wikipedia.org/wiki/Halo_3:_ODST
-- Halopedia: https://www.halopedia.org/Halo_3:_ODST
-- ODST General Info: https://www.halopedia.org/Orbital_Drop_Shock_Troopers
