@@ -2,6 +2,8 @@
 This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign. **All** credits go to **Martin O'Donnell** and **Michael Salvatori** for making the soundtracks.
 
 # Music List
+- boss1: **Finale**
+- boss2: **Special Delivery**
 - editor: **Overture**
 - game1: **The Rookie**
 - game2: **More Than His Share**
@@ -17,6 +19,8 @@ This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while
 - *(i also changed the land sound effect with the Halo 3 Active Camouflage End sound effect)*
 
 # Music Links
+- Finale: https://www.youtube.com/watch?v=6-jmPBuoQM4
+- Special Delivery: https://www.youtube.com/watch?v=RGkcDA9dbnk
 - Overture: https://www.youtube.com/watch?v=4kCP-ffSdfU
 - The Rookie: https://www.youtube.com/watch?v=6qTpwMlqeLU
 - More Than His Share: https://www.youtube.com/watch?v=eoCBogeAnS4
@@ -47,5 +51,3 @@ List of ODST Soundtracks that _were not_ included in this music pack.
 - Skyline: https://www.youtube.com/watch?v=iJDzP5aGCoU
 - One Way Ride: https://www.youtube.com/watch?v=QdwvG9Lr1Yc
 - Data Hive: https://www.youtube.com/watch?v=49sXWfZidAU
-- Special Delivery: https://www.youtube.com/watch?v=RGkcDA9dbnk
-- Finale: https://www.youtube.com/watch?v=6-jmPBuoQM4
