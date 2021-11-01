@@ -1,4 +1,4 @@
-# ODST Soundtracks ![ODSTCOVERPNG](https://user-images.githubusercontent.com/89642216/139625324-a7722c90-175c-4d40-85f6-4bd61eb5ba27.png)
+# ODST Soundtracks
 This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign. **All** credits go to **Martin O'Donnell** and **Michael Salvatori** for making the soundtracks.
 
 # Music List
@@ -51,3 +51,5 @@ List of ODST Soundtracks that _were not_ included in this music pack.
 - Skyline: https://www.youtube.com/watch?v=iJDzP5aGCoU
 - One Way Ride: https://www.youtube.com/watch?v=QdwvG9Lr1Yc
 - Data Hive: https://www.youtube.com/watch?v=49sXWfZidAU
+
+![ODSTCOVERPNG](https://user-images.githubusercontent.com/89642216/139625324-a7722c90-175c-4d40-85f6-4bd61eb5ba27.png)
