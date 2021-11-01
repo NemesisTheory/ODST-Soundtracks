@@ -51,5 +51,3 @@ List of ODST Soundtracks that _were not_ included in this music pack.
 - Skyline: https://www.youtube.com/watch?v=iJDzP5aGCoU
 - One Way Ride: https://www.youtube.com/watch?v=QdwvG9Lr1Yc
 - Data Hive: https://www.youtube.com/watch?v=49sXWfZidAU
-
-![wp2028289-halo-3-odst-wallpapers](https://user-images.githubusercontent.com/89642216/139625583-b0ea889f-e15f-4340-957d-82b2002fca24.jpg)
