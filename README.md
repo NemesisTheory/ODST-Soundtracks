@@ -1,4 +1,4 @@
-# ODST Soundtracks
+# ODST Soundtracks ![ODSTCOVERPNG](https://user-images.githubusercontent.com/89642216/139625324-a7722c90-175c-4d40-85f6-4bd61eb5ba27.png)
 This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign. **All** credits go to **Martin O'Donnell** and **Michael Salvatori** for making the soundtracks.
 
 # Music List
