@@ -16,7 +16,6 @@ This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while
 - game9: **Bits and Pieces**
 - launch: **No Stone Unturned**
 - menu: **The Light at the End**
-- *(i also changed the land sound effect with the Halo 3 Active Camouflage End sound effect)*
 
 # Music Links
 - Finale: https://www.youtube.com/watch?v=6-jmPBuoQM4
