@@ -20,7 +20,7 @@ This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while
 # Music Links
 - [Finale](https://www.youtube.com/watch?v=6-jmPBuoQM4)
 - [Special Delivery](https://www.youtube.com/watch?v=RGkcDA9dbnk)
-- [Overture (Halo 3: ODST)](https://www.youtube.com/watch?v=4kCP-ffSdfU)
+- [Overture](https://www.youtube.com/watch?v=4kCP-ffSdfU) (Halo 3: ODST)
 - [The Rookie](https://www.youtube.com/watch?v=6qTpwMlqeLU)
 - [More Than His Share](https://www.youtube.com/watch?v=eoCBogeAnS4)
 - [Deference for Darkness](https://www.youtube.com/watch?v=gsG8qffiDk8)
