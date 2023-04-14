@@ -5,6 +5,7 @@ This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while
 - boss1: **Finale**
 - boss2: **Special Delivery**
 - editor: **Overture** (Halo 3: ODST)
+- fine: **One Way Ride**
 - game1: **The Rookie**
 - game2: **More Than His Share**
 - game3: **Deference for Darkness**
@@ -21,6 +22,7 @@ This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while
 - [Finale](https://www.youtube.com/watch?v=6-jmPBuoQM4)
 - [Special Delivery](https://www.youtube.com/watch?v=RGkcDA9dbnk)
 - [Overture](https://www.youtube.com/watch?v=4kCP-ffSdfU) (Halo 3: ODST)
+- [One Way Ride](https://www.youtube.com/watch?v=QdwvG9Lr1Yc)
 - [The Rookie](https://www.youtube.com/watch?v=6qTpwMlqeLU)
 - [More Than His Share](https://www.youtube.com/watch?v=eoCBogeAnS4)
 - [Deference for Darkness](https://www.youtube.com/watch?v=gsG8qffiDk8)
