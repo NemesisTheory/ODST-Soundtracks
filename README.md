@@ -1,5 +1,5 @@
 # ODST Soundtracks
-This mod **plays ODST soundtracks** so you can enjoy the classic ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign. **All** credits go to **Martin O'Donnell** and **Michael Salvatori** for making the soundtracks.
+This mod **plays ODST soundtracks** *(it overrides Mindustry soundtracks)* and makes a nice effect and atmosphere in the campaign. **All** credits go to **Martin O'Donnell** and **Michael Salvatori** for making the soundtracks.
 
 # Music List
 - boss1: **Finale**
