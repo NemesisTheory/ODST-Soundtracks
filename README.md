@@ -2,21 +2,21 @@
 This mod **plays ODST soundtracks** *(it overrides Mindustry soundtracks)* and makes a nice effect and atmosphere in the campaign. **All** credits go to **Martin O'Donnell** and **Michael Salvatori** for making the soundtracks.
 
 # Music List
-- boss1: **Finale**
-- boss2: **Special Delivery**
-- editor: **Overture** (Halo 3: ODST)
-- fine: **One Way Ride**
-- game1: **The Rookie**
-- game2: **More Than His Share**
-- game3: **Deference for Darkness**
-- game4: **The Menagerie**
-- game5: **Asphalt and Ablution**
-- game6: **Traffic Jam**
-- game7: **Neon Night**
-- game8: **The Office of Naval Intelligence**
-- game9: **Bits and Pieces**
-- launch: **No Stone Unturned**
-- menu: **The Light at the End**
+- `boss1`: **Finale**
+- `boss2`: **Special Delivery**
+- `editor`: **Overture** (Halo 3: ODST)
+- `fine`: **One Way Ride**
+- `game1`: **The Rookie**
+- `game2`: **More Than His Share**
+- `game3`: **Deference for Darkness**
+- `game4`: **The Menagerie**
+- `game5`: **Asphalt and Ablution**
+- `game6`: **Traffic Jam**
+- `game7`: **Neon Night**
+- `game8`: **The Office of Naval Intelligence**
+- `game9`: **Bits and Pieces**
+- `launch`: **No Stone Unturned**
+- `menu`: **The Light at the End**
 
 # Music Links
 - [Finale](https://www.youtube.com/watch?v=6-jmPBuoQM4)
